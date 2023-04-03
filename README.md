@@ -1,12 +1,13 @@
-# Nombre final del curso
+# Azure Data Storage Esencial
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Azure Data Storage Esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Aprende a sacar el máximo provecho de las características que ofrecen las cuentas de almacenamiento en Azure gracias a este curso que te explica en detalle cómo aprovechar Azure Tables, Azure Queues, Azure Files y Azure Blob Storage para almacenar y gestionar datos en la nube. También explorarás los distintos niveles de acceso a los datos y las opciones de precios disponibles, para elegir la solución que mejor se adapte a las necesidades reales de tus proyectos.
 
 ## Instrucciones
 
