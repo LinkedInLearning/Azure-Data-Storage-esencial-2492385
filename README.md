@@ -31,5 +31,5 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/azure-data-storage-esencial/una-cuenta-para-almacenarlo-todo
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFvUm6-sMF7CQ/learning-public-crop_675_1200/0/1684820187376?e=2147483647&v=beta&t=LqRGau737GfOT82ZhGST6qGwAGNwGnA9LiYwFBLCB8c
 
